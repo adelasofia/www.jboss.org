@@ -12,6 +12,9 @@ ul.book-list {
       visibility: hidden;
     }
   }
+  li:last-child{
+    float: left !important;
+  }
 }
 
 .book {
